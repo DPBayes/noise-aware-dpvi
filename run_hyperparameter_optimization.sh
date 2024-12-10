@@ -1,0 +1,1 @@
+poetry run python3 hyperparameter_optimization.py --random_seed 984 --repeats 5 --optimization_chunks 1 --data_size 2000 --optuna_data_validation_split_percentage 0.5
